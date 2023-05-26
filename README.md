@@ -6,10 +6,11 @@
 
 #
 
-<img align="left" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 #
 
+<br>
 <p align="left" > <img height="20" src="https://komarev.com/ghpvc/?username=sayan-batabyal&label=Profile%20views&color=0e75b6&style=fla-squaret" alt="sayan-batabyal" /> </p>
 
 <p align="left">
