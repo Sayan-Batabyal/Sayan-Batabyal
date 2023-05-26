@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83637322/241246068-c9753f06-3bc8-4e8e-8e21-b128c136760f.gif">
+<img align="right" alt="Coding" width="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83637322/241246068-c9753f06-3bc8-4e8e-8e21-b128c136760f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-batabyal&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-batabyal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sayanbatabyal3" target="blank"><img src="https://img.shields.io/twitter/follow/sayanbatabyal3?logo=twitter&style=for-the-badge" alt="sayanbatabyal3" /></a> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨 Visit My Portfolio [https://sayan-batabyal-portfolio.vercel.app/](https://sayan-batabyal-portfolio.vercel.app/)
+- 👨 Visit My [Portfolio](https://sayan-batabyal-portfolio.vercel.app/)
 
 - 📫 How to reach me **sayanbatabyal.mav@gmail.com**
 
-- 📄 Give a look in my Resume [https://drive.google.com/file/d/108-7qa8sBMWvak-G31yh_1bXdKlfrsxq/view?usp=sharing](https://drive.google.com/file/d/108-7qa8sBMWvak-G31yh_1bXdKlfrsxq/view?usp=sharing)
+- 📄 Give a look in my [Resume](https://drive.google.com/file/d/108-7qa8sBMWvak-G31yh_1bXdKlfrsxq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
