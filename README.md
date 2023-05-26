@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate Developer from India &nbsp; <img alt="india" width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83637322/241255613-921823f3-8455-4c7f-8676-c770ef4a8ddb.svg"></h3>
 <img align="right" alt="Coding"  width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 <p ><span>&nbsp;</span></p>
-
+<h3 align="left">Hello </h3>
+<p align="left" > <img height="20" src="https://komarev.com/ghpvc/?username=sayan-batabyal&label=Profile%20views&color=0e75b6&style=fla-squaret" alt="sayan-batabyal" /> </p>
 
 <p align="left">
  <a href="https://linktr.ee/jaxerzr" target="blank"><img height="40" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" alt="sayanbatabyal3" /></a><a href="https://linktr.ee/jaxerzr" target="blank"> <img height="30" src="https://img.shields.io/static/v1?message=Me&logo=&label=Follow&color=0077B5&logoColor=white&labelColor=&style=flast-square" alt="sayan-batabyal" /></a> </p>
