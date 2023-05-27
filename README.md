@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" alt="Coding"  width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+<img align="right" alt="Coding"  width="280" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 <img align="center" alt="Coding" width="660" src="https://user-images.githubusercontent.com/83637322/241374361-f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
 
