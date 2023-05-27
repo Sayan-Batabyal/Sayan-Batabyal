@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding"  width="328" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
-<img align="center" alt="Coding" width="680" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<img align="center" alt="Coding" width="680" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
 
 
 <br>
@@ -25,7 +25,7 @@
 
  - 📄 Give a look to my <b>[Resume](https://drive.google.com/file/d/108-7qa8sBMWvak-G31yh_1bXdKlfrsxq/view?usp=sharing)</b>
 
-<img align="center" alt="Coding" width="1000" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/81a18ad1-0d1f-431c-bb7a-f61cfaa6319e.gif" />
+<img align="center" alt="Coding" width="1000" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
 <h3 align="left">🏆 Coding Profiles :</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/sayanbatabyal_m1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayanbatabyal_m1" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://auth.geeksforgeeks.org/user/sayanbatabyalmav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayanbatabyalmav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sayanbatabyalm" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83637322/241269826-ce5254e3-53b0-4e48-9774-6c12a4fbabe1.svg" alt="sayanbatabyalm" height="30" width="40" /></a>
 </p>
-<img align="center" alt="Coding" width="1000" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/81a18ad1-0d1f-431c-bb7a-f61cfaa6319e.gif" />
+<img align="center" alt="Coding" width="1000" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
 <h3 align="left">👨‍💻 Languages Frameworks and Tools : </h3>
 &nbsp; 
 <p>
@@ -42,7 +42,7 @@
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 </p>
 
-<img align="center" alt="Coding" width="1000" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/81a18ad1-0d1f-431c-bb7a-f61cfaa6319e.gif" />
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 <h3 align="left">🔥   My Stats :</h3>
 
