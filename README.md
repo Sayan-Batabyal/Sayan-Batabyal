@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" alt="Coding"  width="328" src="https://github.com/Sayan-Batabyal/Sayan-Batabyal/assets/83637322/81a18ad1-0d1f-431c-bb7a-f61cfaa6319e.gif" />
+<img align="right" alt="Coding"  width="328" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 <img align="center" alt="Coding" width="680" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
