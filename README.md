@@ -3,8 +3,8 @@
 <h4 align="center">A Passionate Developer from India &nbsp; <img alt="india" width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83637322/241255613-921823f3-8455-4c7f-8676-c770ef4a8ddb.svg"></h4>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/83637322/241374361-f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
-
-<img align="right" alt="Coding"  width="280" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+<img align="right" alt="Coding"  width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+<img align="center" alt="Coding" width="500"  src="https://user-images.githubusercontent.com/83637322/241374361-f0173172-89e5-4228-9a27-01ba4bf54f04.gif" />
 <div align="left">
 <p align="left" > <img height="20" src="https://komarev.com/ghpvc/?username=sayan-batabyal&label=Profile%20views&color=0e75b6&style=fla-squaret" alt="sayan-batabyal" /></p
  <p align="left">
